@@ -1,5 +1,6 @@
 public class FirstProject{
     public static void main(String[] args) {
+    //setting an integer
     int i=7
     System.out.print(i)
 
